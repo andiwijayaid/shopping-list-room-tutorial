@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#FFCF0F</color>
+    <color name="colorPrimaryDark">#FFCF0F</color>
+    <color name="colorAccent">#FFCF0F</color>
+    <color name="provincial_pink">#FDF6F3</color>
+
+</resources>

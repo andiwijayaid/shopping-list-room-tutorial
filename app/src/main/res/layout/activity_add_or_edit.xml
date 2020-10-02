@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/iconIV"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="24dp"
+        android:contentDescription="@string/app_name"
+        android:transitionName="@string/transition_name"
+        android:src="@drawable/ic_shopping" />
+
+    <EditText
+        android:id="@+id/shoppingItemET"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/big_padding"
+        android:layout_marginEnd="@dimen/big_padding"
+        android:fontFamily="sans-serif-light"
+        android:hint="@string/hint_shopping_item"
+        android:importantForAutofill="no"
+        android:inputType="textAutoComplete"
+        android:minHeight="@dimen/min_height"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/saveBT"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/big_padding"
+        android:background="@drawable/background_primary_rounded"
+        android:text="@string/button_save"
+        android:textColor="@android:color/white" />
+
+</LinearLayout>

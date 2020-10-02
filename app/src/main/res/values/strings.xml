@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Shopping List</string>
+    <string name="add_shopping_item">Add Shopping Item</string>
+
+    <string name="hint_shopping_item">Shopping item…</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">Shopping item not saved because it is empty.</string>
+    <string name="cart">cart</string>
+
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="error_empty_edit_text">must be filled</string>
+
+    <string name="transition_name">Icon Transition</string>
+</resources>
