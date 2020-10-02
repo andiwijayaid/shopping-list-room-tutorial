@@ -7,9 +7,11 @@
     <string name="empty_not_saved">Shopping item not saved because it is empty.</string>
     <string name="cart">cart</string>
 
+    <string name="add">Add</string>
     <string name="edit">Edit</string>
     <string name="delete">Delete</string>
     <string name="error_empty_edit_text">must be filled</string>
 
     <string name="transition_name">Icon Transition</string>
+
 </resources>

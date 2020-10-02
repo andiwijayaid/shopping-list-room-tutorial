@@ -33,7 +33,7 @@
         android:layout_height="wrap_content"
         android:layout_margin="@dimen/big_padding"
         android:background="@drawable/background_primary_rounded"
-        android:text="@string/button_save"
+        android:text="@string/add"
         android:textColor="@android:color/white" />
 
 </LinearLayout>
